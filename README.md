@@ -15,3 +15,6 @@
 
   ## Future changes
   I would like to keep improving this project as I learn more about coding and as I learn more about how to create a high-quality README file. I would have used my application to create this file; however, I'm still not sure how the contribution, testing, and usage sections work with a node package application.
+
+  ## Link to example video:
+  [Example app usage](https://youtu.be/zX5XMSEq1FY)
